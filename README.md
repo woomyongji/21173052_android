@@ -10,4 +10,4 @@
 ## 5주차 과제 (2022-03-30)
 <img width="" height="" src="./pic/스크린샷(93).png"></img>
 <img width="" height="" src="./pic/스크린샷(94).png"></img>
-<img width="" height="" src="./pic/스크린샷(95).png"></img>
+<img width="" height="" src="./pic/스크린샷(96).png"></img>
