@@ -13,5 +13,5 @@
 <img width="" height="" src="./pic/스크린샷(96).png"></img>
 
 ## 6주차 과제 (2022-04-13)
-<img width="" height="" src="./pic/스크린샷(99).png"></img>
+<img width="" height="" src="./pic/스크린샷(101).png"></img>
 <img width="" height="" src="./pic/스크린샷(100).png"></img>
