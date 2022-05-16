@@ -18,7 +18,7 @@
 
 ## 10주차 과제 (2022-05-04)
 <img width="" height="" src="./pic/0516_21173052_우명지_실습과제 (2).png"></img>
-<img width="" height="" src"./pic/0516_21173052_과제(1).png"></img>
-<img width="" height="" src"./pic/0516_21173052_과제(2).png"></img>
-<img width="" height="" src"./pic/0516_21173052_과제(3).png"></img>
+<img width="" height="" src="./pic/0516_21173052_과제(1).png"></img>
+<img width="" height="" src="./pic/0516_21173052_과제(2).png"></img>
+<img width="" height="" src="./pic/0516_21173052_과제(3).png"></img>
 
