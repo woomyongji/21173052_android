@@ -26,3 +26,5 @@
 <img width="" height="" src="./pic/스크린샷(3).png"></img>
 
 ## 12주차 과제 (2022-05-18)
+<img width="" height="" src="./pic/0526.png"></img>
+<img width="" height="" src="./pic/0526 (2).png"></img>
